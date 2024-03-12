@@ -15,7 +15,7 @@ body{
     --texto-fundo: rgba(58, 55, 94, 0.3);
 }
 
-.coneudo-principal{
+.conteudo-principal{
     display: flex;
     flex-direction: column;
     justify-content: center;
