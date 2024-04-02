@@ -36,4 +36,7 @@ body{
     color: var(--branco);
     width: 100%;
     border-bottom: 4px solid var(--botao-ativo);
+    border-left: 2x solid var(--botao-ativo);
+    border-right: 2x solid var(--botao-ativo);
+    border-top: none;
 }
