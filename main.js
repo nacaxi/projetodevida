@@ -1,1 +1,2 @@
-alert("oi amor")
+const botoes = document.querySelector(".botao")
+console.log (botoes)
