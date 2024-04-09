@@ -1,1 +1,1 @@
-.alert("oi amor")
+alert("oi amor")
