@@ -1,4 +1,4 @@
-const botoes = document.querySelector(".botao")
+const botoes = document.querySelectorAll(".botao")
 
 
 
