@@ -55,7 +55,7 @@ body{
 }
 
 .abas-textos{
-    background-color: #3A375E;
+    background: #3A375E;
 }
 
 @media screen and (min-width: 768px){
