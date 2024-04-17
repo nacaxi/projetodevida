@@ -13,7 +13,7 @@ body{
     --botao-ativo: #48375E;
     --botao-inativo: rgba(58, 55, 94, 0.5);
     --texto-fundo: rgba(58, 55, 94, 0.3);
-    --texto-botao: #375E59
+    --texto-botao: #375E59;
 }
 
 .conteudo-principal{
