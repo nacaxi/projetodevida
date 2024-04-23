@@ -57,6 +57,14 @@ body{
     border-bottom: 4px solid var(--verde)
 }
 
+.aba-conteudo.ativo{
+    display: block;
+}
+
+.aba-conteudo{
+    display: none;
+}
+
 .abas-textos{
     background: var(--texto-botao);
     padding: 40px;
