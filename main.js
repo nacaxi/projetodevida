@@ -10,4 +10,5 @@ for(let i =0;i<botoes.length; i++){
     }
 }
 
-const clicar = document.querySelectorAll(".aba-conteudo")
+const botoes = document.querySelectorAll(".aba-conteudo")
+console.log
