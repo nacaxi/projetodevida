@@ -9,3 +9,6 @@ for(let i =0;i<botoes.length; i++){
 
     }
 }
+
+const botoes = document.querySelectorAll(".aba-conteudo"){
+    console.log()}
