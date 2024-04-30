@@ -1,6 +1,5 @@
 const botoes = document.querySelectorAll(".botao")
 const textos = document.querySelectorAll(".aba-conteudo")
-const contador = document.querySelectorAll(".contador")
 
 for(let i =0;i<botoes.length; i++){
     botoes[i].onclick = function(){
@@ -12,3 +11,5 @@ for(let i =0;i<botoes.length; i++){
         textos[i].classList.add("ativo");
     }
 }
+
+const contador = document.querySelectorAll(".contador")
