@@ -13,3 +13,5 @@ for(let i =0;i<botoes.length; i++){
 }
 
 const contador = document.querySelectorAll(".contador")
+
+contadores[0].textContent = "Contagem regressiva"
