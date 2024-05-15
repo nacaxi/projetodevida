@@ -19,10 +19,15 @@ const tempoObjetivo3 = new Date ("2023-12-30T00:00:00");
 const tempoObjetivo4 = new Date ("2024-02-01T00:00:00");
 let tempoAtual = new Date()
 
+const tempos = [tempoObjetivo1, tempoObjetivo2, tempoObjetivo3, tempoObjetivo4]
+
+function atualizaCronometro(){
+    for (let i=0; i<contadores.length;i++){
+        contadores[i].textContent = calculaTempo(tempos[])
+    }
+}
+
 contador[0].textContent = calculaTempo(tempoObjetivo1)
-contador[1].textContent = calculaTempo(tempoObjetivo2)
-contador[2].textContent = calculaTempo(tempoObjetivo3)
-contador[3].textContent = calculaTempo(tempoObjetivo4)
 
 function calculaTempo(tempoObjetivo){
     let tempoAtual = new Date();
