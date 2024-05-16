@@ -8,6 +8,8 @@ body{
         color: #FFFFFF;
 }
 
+
+
 :root{
     --cor-de-fundo: #1E1E1E;
     --verde: #6FFF57;
@@ -23,6 +25,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    font-size: larger;
 }
 
 .conteudo-principal span{
