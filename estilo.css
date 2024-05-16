@@ -14,9 +14,9 @@ body{
     --cor-de-fundo: #1E1E1E;
     --verde: #6FFF57;
     --branco: #FFFFFF;
-    --botao-ativo: #37585e;
+    --botao-ativo: #2f555c;
     --botao-inativo: #457f8e;
-    --texto-fundo: pink;
+    --texto-fundo: rgb(255, 0, 43);
     --texto-botao: #375E59;
 }
 
