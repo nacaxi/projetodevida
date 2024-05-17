@@ -41,7 +41,7 @@ body{
     align-items: center;
     color: var(--branco);
     width: 100%;
-    border-bottom: 1px solid var(--botao-ativo);
+    border-bottom: 4px solid var(--botao-ativo);
     border-left: 2x solid var(--botao-ativo);
     border-right: 2x solid var(--botao-ativo);
     border-top: none;
@@ -52,7 +52,7 @@ body{
 }
 
 .botao:first-child{
-    border-radius: 40px 40px 0 0;
+    border-radius: 20px 20px 0 0;
 }
 
 .botao.ativo{
